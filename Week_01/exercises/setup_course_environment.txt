@@ -5,3 +5,4 @@ The task for today:
     https://github.com/mario-gellrich-zhaw/scientific_programming.git
 
 2.) Solve the challenge in the folder Week_01/challenge.
+
