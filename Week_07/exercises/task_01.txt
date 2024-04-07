@@ -5,6 +5,7 @@
 1.) Run the Jupyter notebook 'working_with_functions_Python.ipynb' step by 
     step. Try to find own examples of built-in functions, user-defined functions 
     and variable-length argument lists.
+    
 
 2.) Run the Jupyter notebook 'population_and_samples.ipynb' step by step. In the 
     bootstrap function change the parameters to create your own population, bootstrap 
